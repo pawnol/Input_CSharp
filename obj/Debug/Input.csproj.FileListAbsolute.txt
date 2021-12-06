@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\Input\bin\Debug\Input.exe.config
+C:\Users\Nolan Pawelski\Desktop\Input\bin\Debug\Input.exe
+C:\Users\Nolan Pawelski\Desktop\Input\bin\Debug\Input.pdb
+C:\Users\Nolan Pawelski\Desktop\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Input\obj\Debug\Input.exe
+C:\Users\Nolan Pawelski\Desktop\Input\obj\Debug\Input.pdb
